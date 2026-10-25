@@ -1,0 +1,30 @@
+/* Clash Display — Indian Type Foundry, distribuée gratuitement par Fontshare
+   (ITF Free Font License : usage commercial et web autorisé). */
+@font-face {
+  font-family: 'Clash Display';
+  src: url('./ClashDisplay-400.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('./ClashDisplay-500.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('./ClashDisplay-600.woff2') format('woff2');
+  font-weight: 600;
+  font-display: swap;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('./ClashDisplay-700.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
